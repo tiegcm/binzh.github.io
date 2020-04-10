@@ -38,10 +38,10 @@ Funded Research
 7. Global Simulations of Non-Ideal Transport in the Magnetotail, Co-Investigator (2014- 2017), NSF-GEM, Grant # 1404599 (total grant amount: $334,158 USD)
 8. Drivers of thermal upwelling of neutral particles at high latitudes, Co-Principle Investigator (2014-2016), Air Force Office of Sponsored Research, Award # 14RT2099 (total grant amount: $379,846 USD)
 
-Publications
+Journal Publications
 ======
-1. Zhang, B., et al. (2019), GAMERA: A three-dimensional finite-volume MHD solver in non-orthogonal curvilinear geometries, the Astrophysical Journal Supplement Series., 244(1), 20, [doi:10.3847/1538-4365/ab3a4c](http://doi.org/10.3847/1538-4365/ab3a4c)
-2. Lin, D., Wang, W., Scales, W. A., Pham, K., Liu, J., Zhang, B., et al. (2019). SAPS in the 17 March 2013 storm event: Initial results from the coupled magnetosphere-ionosphere-thermosphere model. Journal of Geophysical Research: Space Physics, 124, 6212– 6225. doi:10.1029/2019JA026698
+1. **Zhang, B**., et al. (2019), GAMERA: A three-dimensional finite-volume MHD solver in non-orthogonal curvilinear geometries, the Astrophysical Journal Supplement Series., 244(1), 20, [doi:10.3847/1538-4365/ab3a4c](http://doi.org/10.3847/1538-4365/ab3a4c)
+2. Lin, D., Wang, W., Scales, W. A., Pham, K., Liu, J., Zhang, B., et al. (2019). SAPS in the 17 March 2013 storm event: Initial results from the coupled magnetosphere-ionosphere-thermosphere model. Journal of Geophysical Research: Space Physics, 124, 6212– 6225. [doi:10.1029/2019JA026698](https://doi.org/10.1029/2019JA026698)
 3. W. Wang, Dang, T., Lei, J., Zhang, B., and Zhang, S.-R. (2019).,Physical Processes Driving the Response of the F2-region Ionosphere to the 21 August 2017 Solar Eclipse at Millstone Hill, Journal of Geophysical Research: Space Physics, 124, 2978– 2991. doi:10.1029/2018JA025479
 4. Lotko, W., and Zhang, B. (2018). Alfv ́enic heating in the cusp ionosphere-thermosphere. Journal of Geophysical Research: Space Physics, 123, 10,368–10,383. doi:10.1029/2018JA025990
 5. Zhang, B., K. A. Sorathia, J. G. Lyon, V. G. Merkin, M. Wiltberger, A three-dimensional finite- volume MHD solver in non-orthogonal curvilinear geometry: GAMERA, a reinvention of LFM (2018), arXiv, doi:arXiv/1810.10861
