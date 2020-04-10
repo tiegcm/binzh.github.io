@@ -8,13 +8,19 @@ date: 2020-01-01
 location: "Hong Kong SAR, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a Python course for Earth scientists
 
-Heading 1
+Week 1: Introduction to Python and Data Science
 ======
+* What is Python
+* Why Python
+* What is data science
 
-Heading 2
+Week 2: Python Basics 1
 ======
+* Variables, Operations
+* Program Control
+* Function and Module
 
-Heading 3
+Week 3: Python Basics 2
 ======
