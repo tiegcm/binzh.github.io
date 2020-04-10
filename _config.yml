@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Trust but Verify"
+title                    : "Binzheng's Page"
 title_separator          : "-"
 name                     : &name "Dr. Binzheng Zhang"
 description              : &description "personal description"
@@ -80,17 +80,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "DR. Binzheng Zhang"
+  name             : "Dr. Binzheng Zhang"
   avatar           : "profile.png"
   bio              : "Space physicist at HKU"
   location         : "Pokfulam, Hong Kong SAR, China"
-  employer         :
+  employer         : "Faculty of Science, the University of Hong Kong"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=AC8jpboAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Binzheng_Zhang"
   uri              :
-  bitbucket        :
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : 
   wikipedia        :
 
 
