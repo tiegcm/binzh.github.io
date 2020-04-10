@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Binzheng Zhang"
   avatar           : "profile.png"
-  bio              : "Space physicist"
+  bio              : "Teacher, Space physicist"
   location         : "Pokfulam, Hong Kong SAR, China"
   employer         : "The University of Hong Kong"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bzhang1982"
+  github           : #"bzhang1982"
   google_plus      :
   keybase          :
   instagram        :
