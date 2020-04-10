@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "The GAMERA MHD code"
+excerpt: "High resolving power numerical methods for MHD<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## The GAMERA MHD code
+* Yes Gamera is a giant Japanese turtle, for us it's just a piece of elegant code that solves the equations of magnetohydrodynamics (MHD) in non-orthogonal, curvilinear grids. Gamera stands for "Grid Agnostic MHD for Extended Research Applications" Here's the "official" design of the Gamera logo by artist at the Johns Hopkins University (JHU/APL).
+
+<img src='/images/500x300.png'>
+
