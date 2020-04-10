@@ -14,7 +14,7 @@ Who Am I
 ======
 I'm a space physicist working on the development of first-principles, high-performance computing based numerical tools for understanding the dynamic evolution of our space environment, a.k.a., the geospace, The changing geospace environment affects activities such as communication and operation of space systems, which is known as space weather. The computational tools developed through my research projects are potentially promising for the prediction of space weather that impacts our daily life.
 
-$I$, 8, $\Sim$, $\pi$
+$I$, 8, $\Sum$, $\pi$
 
 What I'm working on
 =====
