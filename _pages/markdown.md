@@ -1,10 +1,8 @@
 ---
-permalink: /markdown/
+layout: archive
 title: "About me"
+permalink: /markdown/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
 
 ## About me
