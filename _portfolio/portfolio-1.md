@@ -1,6 +1,6 @@
 ---
 title: "The GAMERA MHD code"
-excerpt: "High resolving power numerical methods for MHD<br/><img src='./gamera.png'>"
+excerpt: "High resolving power numerical methods for MHD<br/>"
 collection: portfolio
 ---
 
