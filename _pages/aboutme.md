@@ -2,7 +2,6 @@
 layout: archive
 title: "About me"
 permalink: /aboutme/
-author_profile: true
 ---
 
 I'm a space physicist (note: not a "physicist" because I have no physics degrees) and currently a faculty member of the Department of Earth Sciences at the University of Hong Kong. My research projects focus on the development of sophisticated numerical tools for the geospace environment with potential applications to space weather prediction. Working closely with my colleagues at NCAR and APL, I'm also interested in applying computational methods to the broad area of space physics, including the upper atmospheric system, planetary magnetospheres, solar physics, basic plasma physics etc. 
