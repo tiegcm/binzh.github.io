@@ -20,6 +20,9 @@ Work experience
 * 2018-present: Assistant Professor
   * Department of Earth Sciences, the University of Hong Kong
 
+* 2019-present: McQueen Fellow
+  * High Altitude Observatory, National Center for Atmospheric Research
+
 * 2016-2017: Postdoc Fellow
   * High Altitude Observatory, National Center for Atmospheric Research
 
