@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 2"
+title: "EASC2404: Introduction to the Atmosphere and Hydrosphere"
 collection: teaching
-type: "Workshop"
+type: "Lecture"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Hong Kong, Department of Earth Sciences"
+date: 2020-09-01
+location: "Hong Kong SAR, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of ATMOSPHERE
 
-Heading 1
+Atmosphere1
 ======
 
-Heading 2
+Medeolgy 
 ======
 
-Heading 3
+Hydrosphere
 ======
