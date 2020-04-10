@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2019-10-01
 venue: 'The Astrophysical Journal Supplement'
 paperurl: 'http://academicpages.github.io/files/Zhang_2019_ApJS_244_20.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Zhang, B., et al. (2019), &quot; GAMERA: A three-dimensional finite-volume MHD solver in non-orthogonal curvilinear geometries.&quot; <i>the Astrophysical Journal Supplement Series</i>. 244(1), 20. doi:10.3847/1538-4365/ab3a4c'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
