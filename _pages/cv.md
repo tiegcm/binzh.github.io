@@ -82,18 +82,25 @@ Journal Publications
 
 Selected Conference Presentations
 ======
-Zhang, B. et al. (2019), Asymmetric Kelvin-Helmholtz Instability at Giant Magnetospheres (Invited), Astronum 2019, Paris, Universite Pantheon-Sorbonne, 1-5 Jul.
-Zhang, B. et al. (2018), A Numerical Experiment of the global Jupiter Magnetosphere: Initial Results from Multifluid MHD, AGU Fall meeting abstract SM23E-3233, Washington D.C., 10-14 Dec.
-Zhang, B. et al. (2017), Global Geospace Modeling of Upper Thermospheric Dynamics during Storm Time (Invited), AGU Fall meeting abstract SM32B-02, New Orleans, LA, 11-15 Dec.
-Zhang, B. et al. (2016), Effects of mass loading on dayside solar wind-magnetosphere interactions, AGU Fall meeting abstract SM12A-03, San Francisco, CA, 12-16 Dec.
-Zhang, B. et al. (2015) Impacts of ionospheric outflow on storm-time F-region thermospheric mass density modeling (Invited), AGU Fall meeting abstract SM14A-07, San Francisco, CA, 14-18 Dec.
-Zhang, B.et al. (2014). Predicting Thermospheric Density at High Latitude during Magnetic Storms using Coupled Global Geospace Simulations (Invited), AGU Fall meeting, San Francisco, CA, 13-19 Dec.
-Zhang, B. et al. (2014), Electron precipitation models in global geospace simulations (Invited), AGU Fall meeting, San Francisco, CA, 13-19 Dec.
-Zhang, B. et al. (2013), Magnetotail origins of auroral Alfv ́enic power (Invited), Chapman Conference, AGU, Reykjavik, Iceland, 10-15 Mar.
-Zhang, B. et al. (2013), Pathways of thermospheric heating via cusp electron precipitation, AGU Fall meeting, San Francisco, CA, 9-13 Dec.
-Zhang, B. et al. (2012). Ionospheric Control of the Distribution of Magnetospheric Reconnection and Convection (Invited), Abstract SM22A-05 presented at 2012 Fall Meeting, AGU, San Francisco, CA, 3-7 Dec.
-Zhang, B. et al. (2012), Effects of soft electron precipitation on the coupled magnetosphere-ionosphere- thermosphere, Abstract SA33A-2169 presented at 2012 Fall Meeting, AGU, San Francisco, CA, 3-7 Dec.
-Zhang, B. et al. (2011), Effects of soft electron precipitation on the coupled magnetosphere-ionosphere- thermosphere, Abstract SM42A-05 presented at 2011 Fall Meeting, AGU, San Francisco, CA, 5-9 Dec.
-Zhang, B. et al. (2010), Broadband Electron Precipitation in Global MHD Simulation and its Effect on the Ionosphere, Abstract SM21A-1887 presented at 2010 Fall Meeting, AGU, San Francisco, CA, 13-17 Dec.
-Zhang, B. et al.(2009), Climatology of Magnetosphere-Ionosphere Coupling in the Lyon-Fedder-Mobarry Global Magnetosphere Model, Eos Trans. AGU, 90(52), Fall Meet. Suppl., Abstract SA23B-1476
-Zhang, B. et al. (2008), Production and Effects of Secondary Electrons in Global Simulations of the Magnetosphere-Ionosphere Interaction, Eos Trans. AGU, 89(53), Fall Meet. Suppl., Abstract SM13A- 1652.
+- Zhang, B. et al. (2019), Asymmetric Kelvin-Helmholtz Instability at Giant Magnetospheres (Invited), Astronum 2019, Paris, Universite Pantheon-Sorbonne, 1-5 Jul.
+- Zhang, B. et al. (2018), A Numerical Experiment of the global Jupiter Magnetosphere: Initial Results from Multifluid MHD, AGU Fall meeting abstract SM23E-3233, Washington D.C., 10-14 Dec.
+- Zhang, B. et al. (2017), Global Geospace Modeling of Upper Thermospheric Dynamics during Storm Time (Invited), AGU Fall meeting abstract SM32B-02, New Orleans, LA, 11-15 Dec.
+- Zhang, B. et al. (2016), Effects of mass loading on dayside solar wind-magnetosphere interactions, AGU Fall meeting abstract SM12A-03, San Francisco, CA, 12-16 Dec.
+- Zhang, B. et al. (2015) Impacts of ionospheric outflow on storm-time F-region thermospheric mass density modeling (Invited), AGU Fall meeting abstract SM14A-07, San Francisco, CA, 14-18 Dec.
+- Zhang, B.et al. (2014). Predicting Thermospheric Density at High Latitude during Magnetic Storms using Coupled Global Geospace Simulations (Invited), AGU Fall meeting, San Francisco, CA, 13-19 Dec.
+- Zhang, B. et al. (2014), Electron precipitation models in global geospace simulations (Invited), AGU Fall meeting, San Francisco, CA, 13-19 Dec.
+- Zhang, B. et al. (2013), Magnetotail origins of auroral Alfv ́enic power (Invited), Chapman Conference, AGU, Reykjavik, Iceland, 10-15 Mar.
+- Zhang, B. et al. (2013), Pathways of thermospheric heating via cusp electron precipitation, AGU Fall meeting, San Francisco, CA, 9-13 Dec.
+- Zhang, B. et al. (2012). Ionospheric Control of the Distribution of Magnetospheric Reconnection and Convection (Invited), Abstract SM22A-05 presented at 2012 Fall Meeting, AGU, San Francisco, CA, 3-7 Dec.
+- Zhang, B. et al. (2012), Effects of soft electron precipitation on the coupled magnetosphere-ionosphere- thermosphere, Abstract SA33A-2169 presented at 2012 Fall Meeting, AGU, San Francisco, CA, 3-7 Dec.
+- Zhang, B. et al. (2011), Effects of soft electron precipitation on the coupled magnetosphere-ionosphere- thermosphere, Abstract SM42A-05 presented at 2011 Fall Meeting, AGU, San Francisco, CA, 5-9 Dec.
+- Zhang, B. et al. (2010), Broadband Electron Precipitation in Global MHD Simulation and its Effect on the Ionosphere, Abstract SM21A-1887 presented at 2010 Fall Meeting, AGU, San Francisco, CA, 13-17 Dec.
+- Zhang, B. et al.(2009), Climatology of Magnetosphere-Ionosphere Coupling in the Lyon-Fedder-Mobarry Global Magnetosphere Model, Eos Trans. AGU, 90(52), Fall Meet. Suppl., Abstract SA23B-1476
+- Zhang, B. et al. (2008), Production and Effects of Secondary Electrons in Global Simulations of the Magnetosphere-Ionosphere Interaction, Eos Trans. AGU, 89(53), Fall Meet. Suppl., Abstract SM13A- 1652.
+
+
+Honors and Awards
+======
+- McQueen Fellow, High Altitude Observatory, NCAR
+- Excellent Young Scientst Award, NSFC
+- Science and Technique Achievement Award, UCAR NASA-Space Grant Award
