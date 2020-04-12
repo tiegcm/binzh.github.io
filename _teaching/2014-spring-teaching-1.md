@@ -8,11 +8,10 @@ date: 2020-01-01
 location: "104 James Lee Science Building"
 ---
 
-Course Overview
-
 Computer-based analysis are essential to modern Earth Sciences. We use computer programs to compile and analyze data, to prepare illustrations like maps or data plots, to develop numerical simulations for complex Earth systems, to write manuscripts for journal publications and so on. In this course, you will learn basic computer programming skills with special applications useful to data analysis within the broad field of Earth Sciences. You will learn Python, a very powerful, general-purposed, object-oriented programming language (it is free).
 
 ## Why Python
+
 1. Python is checked because:
 	* [x] Flexible, cross platform
 	* [x] Open source, free
@@ -28,6 +27,7 @@ Computer-based analysis are essential to modern Earth Sciences. We use computer 
    * [x] the most recent version of Anaconda python: [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
 
 ## Class Structure
+
 - There will be two lectures and two in-class practice sessions per week
 - Students are expected (not required) to read the lecture notes and download the Jupyter
 notebooks for the corresponding lecture notes prior to attending class
@@ -43,6 +43,7 @@ either the lecturer or the TA by appointment.
 
 
 ## Course Schedule
+
 Lecture   | Topic                                   | Applications
 ------ | ----------------------------------------| -------------             
 1      | Intro to Python and Data Science        |
