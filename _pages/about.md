@@ -14,7 +14,7 @@ Who Am I
 ======
 <img src="hex.png" alt="drawing" width="160" style="float: right"/>
 
-I'm a space physicist working on the development of first-principles, high-performance computing based numerical tools for understanding the dynamic evolution of our space environment, a.k.a., the geospace, The changing geospace environment affects activities such as communication and operation of space systems, which is known as space weather. The computational tools developed through my research projects are potentially promising for the prediction of space weather that impacts our daily life.
+I'm a space physicist working on the development of first-principles, high-performance computing based numerical tools for understanding the dynamic evolution of our space environment, a.k.a., the geospace, The changing geospace environment affects activities such as communication an d operation of space systems, which is known as space weather. The computational tools developed through my research projects are potentially promising for the prediction of space weather that impacts our daily life.
 
 
 What I'm working on
@@ -25,6 +25,5 @@ Started from a pioneer MHD code called the Lyon-Fedder-Mobarry (LFM), my colleag
 
 <!---![Alt Image Text](./gamera.png)--->
 
-Join us as a PhD student
-======
-Prospective Students: The GAMERA team is always on the lookout for eager, self-motivated individuals. Please skim these pages to get an idea of our wide-ranging research endeavors. If these projects interest you, or you have independent ideas to discuss, please contact me.
+## PROSPECTIVE STUDENTS
+If you are a student with a broad interest in modeling space plasma environments and with a general love for applied math and science, feel free to contact me. There are plenty opportunities within my current projects/collaborations given the set of state-of-art tools I'm working on with my colleagues, and I'm always keen to get started on something new, difficult and exciting.
