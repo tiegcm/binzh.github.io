@@ -43,7 +43,7 @@ either the lecturer or the TA by appointment.
 - The final exam will count for 40% of the total grade
 
 
-##Course Schedule
+## Course Schedule
 
 Lec. Notes   | Topic                                   | Applications
 ------ | ----------------------------------------| -------------             
