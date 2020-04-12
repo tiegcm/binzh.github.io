@@ -19,7 +19,7 @@ I'm a space physicist working on the development of first-principles, high-perfo
 
 What I'm working on
 =====
-<img src="gamera_sq.png" alt="drawing" width="180" style="float: left"/>
+<img src="gamera_sq.png" alt="drawing" width="200" style="float: right"/>
 
 Started from a pioneer MHD code called the Lyon-Fedder-Mobarry (LFM), my colleagues at Johns Hopkins University and I have developed a general-purposed code GAMERA (the LFM re-invented, name after a prominent Japanese Kaiju) solving the equations of magnetohydrodynamics (MHD). GAMERA stays mostly inside the solar system, occupying the Solar corona, Inner Heliosphere, Venus, Earth, Jupiter, Saturn Neptune. Maybe Mars, Uranus in the future.
 
