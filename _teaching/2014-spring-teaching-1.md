@@ -15,7 +15,7 @@ Computer-based analysis are essential to modern Earth Sciences. We use computer 
 Course Schedule
 ======
 
-Week  | Topic
-------------- | -------------
-1             | Intro to Python and Data Science
-2             | Python basics 1: Variables, Operations
+Week   | Topic
+------ | -------------
+1      | Intro to Python and Data Science
+2      | Python basics 1: Variables, Operations
