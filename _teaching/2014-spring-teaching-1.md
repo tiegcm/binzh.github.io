@@ -9,7 +9,6 @@ location: "Hong Kong SAR, China"
 ---
 
 Why Python for Earth science?
-======
 
 Computer-based analysis are essential to modern Earth Sciences. We use computer programs to compile and analyze data, to prepare illustrations like maps or data plots, to develop numerical simulations for complex Earth systems, to write manuscripts for journal publications and so on. In this course, you will learn basic computer programming skills with special applications useful to data analysis within the broad field of Earth Sciences. You will learn Python, a very powerful, general-purposed, object-oriented programming language (it is free).
 
