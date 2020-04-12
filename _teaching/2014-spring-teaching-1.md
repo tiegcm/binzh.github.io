@@ -11,7 +11,7 @@ location: "104 James Lee Science Building"
 Computer-based analysis are essential to modern Earth Sciences. We use computer programs to compile and analyze data, to prepare illustrations like maps or data plots, to develop numerical simulations for complex Earth systems, to write manuscripts for journal publications and so on. In this course, you will learn basic computer programming skills with special applications useful to data analysis within the broad field of Earth Sciences. You will learn Python, a very powerful, general-purposed, object-oriented programming language (it is free).
 
 ## Why Python
-
+======
 1. Python is checked because:
 	* [x] Flexible, cross platform
 	* [x] Open source, free
@@ -27,11 +27,12 @@ Computer-based analysis are essential to modern Earth Sciences. We use computer 
    * [x] the most recent version of Anaconda python: [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
 
 ## Class Structure
-
+=====
 - There will be two lectures and two in-class practice sessions per week
 - Students are expected (not required) to read the lecture notes and download the Jupyter
 notebooks for the corresponding lecture notes prior to attending class
-- Each lecture begins with a quick review (~5 min) and proceed to the topic of the day. * Lecture time will be mostly devoted to explain the tech details covered in the lecture notes, so reading the lecture prior to class helps you to think and ask questions At the end of every lecture, students may be asked to turn in their lecture (Jupyter) notebooks with the in-class practices filled in.
+- Each lecture begins with a quick review (~5 min) and proceed to the topic of the day. * Lecture time will be mostly devoted to explain the tech details covered in the lecture notes, so reading the lecture prior to class helps you to think and ask questions
+- At the end of every lecture, students may be asked to turn in their lecture (Jupyter) notebooks with the in-class practices filled in.
 - In the second half of the course, each student will have the opportunity to present a practice solution to the class with data analysis skills (depending on the course schedule), but will be informed of their assignment ahead of time. In-class
 practice notebooks may count toward 5% of the final grade as a part of assignment.
 - There will be a programming assignment every week, due BEFORE CLASS one week from
@@ -39,14 +40,15 @@ the assignment. Assignments will count for 60% of the grade (approximately 5 poi
 assignment).
 - Help with assignments and the solutions before assignment due will be available through
 either the lecturer or the TA by appointment.
-- The final exam will count for 40% of the total grade.
+- The final exam will count for 40% of the total grade
 
 
-## Course Schedule
+##Course Schedule
+======
 
-Lecture   | Topic                                   | Applications
+Lec. Notes   | Topic                                   | Applications
 ------ | ----------------------------------------| -------------             
-1      | Intro to Python and Data Science        |
+[Lecture 1](http://tiegcm.github.io/files/EASC2410/Lec1.pdf)      | Intro to Python and Data Science        |
 2      | Python basics 1: Variables, Operations  | a "hello world" program
 3      | Python basics 2: Data types, program control |
 4      | Python basics 3: Functions and Modules  |
