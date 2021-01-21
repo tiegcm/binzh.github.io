@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Binzheng's Page'"
+title                    : "Binzheng ZHANG"
 title_separator          : "-"
-name                     : &name "Dr. Binzheng ZHANG"
+name                     : &name "Dr. B ZHANG"
 description              : &description "personal description"
 url                      : https://tiegcm.github.io/tiegcm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Binzheng Zhang"
   avatar           : "profile.png"
-  bio              : "Teacher, Scientist"
+  bio              : "Scientist, Teacher"
   location         : "327 HOC Science Building"
   employer         : "The University of Hong Kong"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -90,13 +90,13 @@ author:
   email            : "BINZH@HKU.HK"
   researchgate     : "https://www.researchgate.net/profile/Binzheng_Zhang"
   uri              :
-  bitbucket        : 
+  bitbucket        : "https://bitbucket.org/bzhang82/"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"bzhang1982"
+  github           : "https://github.com/tiegcm/"
   google_plus      :
   keybase          :
   instagram        :
