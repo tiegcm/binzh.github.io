@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Binzheng Zhang"
   avatar           : "profile.png"
-  bio              : "Scientist, Teacher"
+  bio              : "Scientist, Teacher, Geek"
   location         : "327 HOC Science Building"
   employer         : "The University of Hong Kong"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -90,13 +90,13 @@ author:
   email            : "BINZH@HKU.HK"
   researchgate     : "https://www.researchgate.net/profile/Binzheng_Zhang"
   uri              :
-  bitbucket        : "https://bitbucket.org/bzhang82/"
+  bitbucket        : "bzhang82"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/tiegcm/"
+  github           : "tiegcm"
   google_plus      :
   keybase          :
   instagram        :
